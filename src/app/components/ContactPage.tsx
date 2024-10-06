@@ -61,7 +61,9 @@ export default function ContactPage() {
             <h3 className="text-3xl font-semibold mb-4 text-gray-800">Get in Touch</h3>
             <p className="mb-6 text-gray-700">
               Whether you have questions about our services or need assistance, feel free to reach out. We're here to help!
+              Take as much time as you need, we will wait.
             </p>
+           
             
             <div className="flex flex-col space-y-4">
               {/* Phone Number */}
